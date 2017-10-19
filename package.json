@@ -1,5 +1,5 @@
 {
-  "name": "git-sass",
+  "name": "Inlamning6",
   "version": "1.0.0",
   "description": "cd ..tou",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElTobbo/Git-sass.git"
+    "url": "git+https://github.com/ElTobbo/EVXFEH17_Tobias_Ekman.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ElTobbo/Git-sass/issues"
+    "url": "https://github.com/ElTobbo/EVXFEH17_Tobias_Ekman/issues"
   },
-  "homepage": "https://github.com/ElTobbo/Git-sass#readme",
+  "homepage": "https://github.com/ElTobbo/EVXFEH17_Tobias_Ekman#readme",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "del": "^3.0.0",
